@@ -16,7 +16,7 @@ Plotting epsilon-NFA:<br>
 Finding epsilon-closure of all nodes:<br>
 ![image](https://user-images.githubusercontent.com/51190631/180194274-d9be19ca-533f-4360-ba1c-9847e091a774.png)
 
-Final Ouput DFA Parameters:<br>
+Final Output DFA Parameters:<br>
 ![image](https://user-images.githubusercontent.com/51190631/180194318-2cc17147-fcc9-4655-80e3-fd201956d690.png)
 
 Plotting DFA:<br>
