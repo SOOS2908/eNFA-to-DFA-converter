@@ -2,7 +2,7 @@
 
 ECE minor project
 
-python-based epsilon-NFA to DFA converter which also uses networkx module to visualize finite automata
+python-based epsilon-NFA to DFA converting program which also uses networkx module to visualize finite automata
 <br>
 
 <br>Example:<br>
